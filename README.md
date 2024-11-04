@@ -36,5 +36,3 @@ The dashboard of financial data analysis of Zonto Private Ltd. provides a compre
 5. **Product Profitability Analysis**: Conduct a deeper analysis to find cost-reduction or pricing strategies that can improve profitability per product.
 
 ---
-
-This README file includes a structured overview and detailed analysis of key findings, which is ready to submit as part of your project portfolio.
